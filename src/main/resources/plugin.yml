@@ -1,0 +1,5 @@
+name: LandClaim
+version: '${project.version}'
+main: com.yannick.landclaim.LandClaim
+api-version: 1.18
+authors: [ Yannick ]
