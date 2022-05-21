@@ -70,5 +70,12 @@
             <version>1.18.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.yannick.core</groupId>
+            <artifactId>Core</artifactId>
+            <scope>system</scope>
+            <version>1.0.2</version>
+            <systemPath>${basedir}/libs/Core-1.0.2.jar</systemPath>
+        </dependency>
     </dependencies>
 </project>
